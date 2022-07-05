@@ -1,0 +1,38 @@
+#tl div{border:1px solid rgb(255 255 255 / 0%);}
+div[id^="pod"],div[id^="poy"],div[id^="poh"],div[id^="smd_"],div[id^="smy_"],div[id^="smh_"]{cursor:pointer;}
+div[class^="opti"]{height:50px;box-shadow:0 0 1px #737373;}
+#pit_at, #pit_na{
+border:0px solid;
+background-color:#ffffff;
+padding:5px 25px;
+font-weight:600;
+color:#000;
+float:right;
+margin-top:5px;
+box-shadow:0 0 1px #484848;}
+
+.nmprji{
+height:30px;
+width:100%;
+text-indent:10px;
+font-size:16px;
+font-variant:small-caps;
+}
+.tpi{
+position:absolute;
+bottom:0%;
+height:40px;
+width:100px;
+text-align:center;
+line-height:40px;
+box-shadow:0 0 1px #fff;
+z-index:9;
+background-color:rgba(136, 136, 136, 0.54);
+color:fff;
+font-weight:600;
+text-transform:uppercase;
+}
+.pipi{border-top:1px solid #ccc;}
+.nmprdf{margin-top:20px;margin-bottom:20px;}
+.fr_but{margin:auto;width:200px;padding:20px;}
+.b{font-weight:600;}.i{font-style:italic;}.u{text-decoration:underline;}.d{text-decoration:line-through;}
